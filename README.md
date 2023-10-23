@@ -4,8 +4,9 @@
 Gabriel Martins Rocha  
 Giovanni Zorzetto Oliveira  
 Giovanni Foliene Luciano.
-###Turma:
+### Turma:  
 213-A.
-###Nome/apelido do grupo: TarefasGGG.
-###Linguagem e programas uitilizados
+### Nome/apelido do grupo:  
+TarefasGGG
+### Linguagem e programas uitilizados:  
 Java, utilizando IntelliJ IDEA.
