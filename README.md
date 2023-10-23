@@ -1,15 +1,14 @@
 # Projeto-GerenciadorTarefas
-## Informações do projeto:
-### Membros do Grupo:  
+## Membros do Grupo:  
 Gabriel Martins Rocha @rochakkj  
 Giovanni Zorzetto Oliveira @Gizetto61  
 Giovanni Foliene Luciano @Trifaw
 
-### Turma:  
+## Turma:  
 213-A  
-### Nome/apelido do grupo:  
+## Nome/apelido do grupo:  
 TarefasGGG  
-### Linguagem e programas uitilizados:  
+## Linguagem e programas uitilizados:  
 Java, utilizando IntelliJ IDEA.
 
 ## Andamento do projeto:  
