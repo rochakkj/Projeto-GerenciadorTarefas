@@ -7,7 +7,7 @@ Giovanni Foliene Luciano.
 
 ### Turma:  
 213-A  
-###Nome/apelido do grupo:  
+### Nome/apelido do grupo:  
 TarefasGGG  
 ### Linguagem e programas uitilizados:  
 Java, utilizando IntelliJ IDEA.
