@@ -1,4 +1,5 @@
-# Projeto-GerenciadorTarefas
+# 🏫Gerenciador de Tarefas Escolares
+
 ## 👪Membros do Grupo:  
 Gabriel Martins Rocha @rochakkj  
 Giovanni Zorzetto Oliveira @Gizetto61  
