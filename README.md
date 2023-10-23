@@ -1,9 +1,9 @@
 # Projeto-GerenciadorTarefas
 ## Informações do projeto:
 ### Membros do Grupo:  
-Gabriel Martins Rocha  
-Giovanni Zorzetto Oliveira  
-Giovanni Foliene Luciano.
+Gabriel Martins Rocha @rochakkj  
+Giovanni Zorzetto Oliveira @Gizetto61  
+Giovanni Foliene Luciano @Trifaw
 
 ### Turma:  
 213-A  
