@@ -1,6 +1,6 @@
 # Projeto-GerenciadorTarefas
-##Informações do projeto:
-###Membros do Grupo:  
+## Informações do projeto:
+### Membros do Grupo:  
 Gabriel Martins Rocha  
 Giovanni Zorzetto Oliveira  
 Giovanni Foliene Luciano.
