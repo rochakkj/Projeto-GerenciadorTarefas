@@ -6,5 +6,6 @@ module br.ggg.gerenciadortarefasescolares {
 
 
     opens br.ggg.gerenciadortarefasescolares to javafx.fxml;
+    opens br.ggg.gerenciadortarefasescolares.controllers to javafx.fxml;
     exports br.ggg.gerenciadortarefasescolares;
 }

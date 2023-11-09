@@ -1,7 +1,6 @@
 package br.ggg.gerenciadortarefasescolares.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 
 //Classe para Login do Usuário
 @Entity
@@ -9,16 +8,34 @@ import jakarta.persistence.Table;
 public class Login
 {
     //Atributos para realização segura de Login
+
+    @Id
+    @GeneratedValue (strategy = GenerationType.IDENTITY)
+    private int id;
+    @Column
     private String Nome;
+
+    @Column
     private String DatadeNasc;
+
+    @Column
     private String CPF;
+
+    @Column
     private String RG;
+
+    @Column
     private String Email;
+
+    @Column
     private String Senha;
 
+
+
     //Construtor
-    public Login(String nome, String datadeNasc, String CPF, String RG, String email, String senha)
-    {
+
+
+    public Login(String nome, String datadeNasc, String CPF, String RG, String email, String senha) {
         Nome = nome;
         DatadeNasc = datadeNasc;
         this.CPF = CPF;

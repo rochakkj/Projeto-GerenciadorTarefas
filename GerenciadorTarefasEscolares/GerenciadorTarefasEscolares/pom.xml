@@ -83,7 +83,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                br.ggg.gerenciadortarefasescolares/br.ggg.gerenciadortarefasescolares.HelloApplication
+                                br.ggg.gerenciadortarefasescolares/br.ggg.gerenciadortarefasescolares.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
