@@ -1,5 +1,6 @@
 package br.ggg.gerenciadortarefasescolares.controllers;
 
+        import br.ggg.gerenciadortarefasescolares.entity.Login;
         import javafx.event.ActionEvent;
         import javafx.fxml.FXML;
         import javafx.scene.control.Button;
@@ -55,6 +56,10 @@ public class loginController {
         } else if (Sexo.getSelectedToggle().equals(Feminino)) {
             MeuSexo.setText("Feminino");
         }
+
+        //Login l = new Login(UserName.getText(), "25-11-1998", UserCPF.getText(), "325465239", "igor@fdsdf", "lkasfnlaksfn");
+
+        //session.pesist(l);
 
         MeuNome.setText(UserName.getText());
         MeuCPF.setText(UserCPF.getText());
