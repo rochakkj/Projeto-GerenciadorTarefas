@@ -25,11 +25,11 @@ Cada membro do grupo tem sua própria branch, onde de acordo com nosso planejame
 
 ### Fases do projeto:  
 - [x] Início: Maven, JavaFX e banco Mysql funcionando juntos.
-- [ ] Meio: Funcionalidades e classes 100% definidas e com base formada.
+- [x] Meio: Funcionalidades e classes 100% definidas e com base formada.
 - [ ] Fim: Funcionalidades 100% terminadas cumprindo todos os requisitos técnicos.
 
 ### Funcionalidades:  
-- [ ] Autenticação do Usuário
+- [x] Autenticação do Usuário
 - [ ] Painel Principal
 - [ ] Categorização de tarefas
 - [ ] Relatórios
